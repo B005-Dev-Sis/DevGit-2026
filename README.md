@@ -1,2 +1,3 @@
 Relembrando o Git e finalizando a aula de GitHub!
-Feijuada light ou Feijuada Fat?
+Feijoada light ou Feijoada Fat?
+Hoje é pra sair do regime!
